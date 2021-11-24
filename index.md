@@ -1,10 +1,10 @@
 ---
 layout: cv
-title: Berat Bozkurt's CV
+title: Buğrahan Kırmızı's CV
 ---
 
-# Berat Bozkurt
-Frontend Developer 
+# Buğrahan KIRMIZI
+Flutter Developer 
 
 | __E-Mail__   | [burahankrmz@gmail.com](mailto:burahankrmz@gmail.com)              | 
 | __LinkedIn__ | [linkedin.com/in/burahankrmz](https://linkedin.com/in/burahankrmz) |
