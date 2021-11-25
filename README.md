@@ -5,7 +5,7 @@
 
 | Website                       | PDF Version      |
 |----------------------------   |------------------|
-| [https://burahankrmz.github.io/cv/] | [latest release] |
+| [burahankrmz.github.io/cv] | [latest release] |
 
 [![Build Status](https://travis-ci.org/eralpkaraduman/cv.svg?branch=gh-pages)](https://travis-ci.org/eralpkaraduman/cv)
 
