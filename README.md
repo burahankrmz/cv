@@ -1,5 +1,5 @@
-[berat.github.io/cv]: https://berat.github.io/cv
-[latest release]: https://github.com/berat/cv/releases/latest
+[burahankrmz.github.io/cv]: https://burahankrmz.github.io/cv/
+[latest release]: https://burahankrmz.github.io/cv/releases/latest
 
 # Source of Eralp Karaduman's CV
 
