@@ -17,9 +17,11 @@ Flutter Developer
 
 ## My Stacks
 
-- Flutter, Dart, Provider
-- Firebase
+- Flutter, Dart
+- Firebase, Provider
 - Git
+- Integration REST API
+- Basics of Nodejs, Postgresql
 
 ## Currently
 
